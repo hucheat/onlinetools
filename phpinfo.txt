@@ -1,0 +1,3 @@
+<?php
+echo "<poc>".md5(time())."</poc>";
+?>
